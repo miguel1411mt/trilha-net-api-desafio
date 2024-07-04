@@ -1,0 +1,6 @@
+@trilha_net_api_desafio_HostAddress = http://localhost:5147
+
+GET {{trilha_net_api_desafio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
